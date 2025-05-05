@@ -1,0 +1,5 @@
+# minimally needed
+black~=25.1.0
+pytest~=8.3.5
+pytest-mock~=3.14.0
+pylint~=2.17.7
